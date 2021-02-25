@@ -1,0 +1,46 @@
+header{
+  text-align:center;
+  border-bottom:5px double;
+  font-size:2.5em;
+}
+
+#main{
+display:flex;
+margin-left:5rem;
+margin-right:5rem;
+}
+
+figure{
+  margin-left:15px;
+  margin-right:15px;
+}
+
+body{
+  background-color:#efdecd;
+}
+
+p{
+  font-size:25px;
+  font-weight:250;
+}
+
+div.picture{
+  background-color: #f2f0e6;
+  margin-right:5px;
+  border-radius: 10px;
+  margin-bottom:10em;
+}
+
+#image{
+  width:100%;
+  height:auto;
+}
+
+.youtube{
+  text-align:center;
+}
+
+.links{
+  text-align:center;
+  font-size:1.5em;
+}
